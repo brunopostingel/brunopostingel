@@ -75,15 +75,15 @@ func main() {
 
 <p align="center">
 
-<a href="https://instagram.com/SEU_USUARIO">
+<a href="https://instagram.com/brunopostingel/">
   <img src="https://img.shields.io/badge/Instagram-onde%20posto%20caf%C3%A9-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/SEU_USUARIO">
+<a href="https://linkedin.com/in/bruno-postingel/">
   <img src="https://img.shields.io/badge/LinkedIn-fingindo%20ser%20s%C3%A9rio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white=logo=linkedin" />
 </a>
 
-<a href="https://seusite.com.br">
+<a href="https://postingel.com.br">
   <img src="https://img.shields.io/badge/Website-100%25%20bugs%20free-success?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
