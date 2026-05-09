@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Postingel 👨‍💻</h1>
+<h1 align="center">Bruno Postingel 🧑🏽‍💻h1>
 
 <p align="center">
   commitando em Go durante o dia
@@ -93,11 +93,11 @@ func main() {
 
 ## frase motivacional de desenvolvedor
 
-> "Não existe gambiarra se ninguém descobrir."
+> "Gambiarra é igual magia: ninguém entende, mas todo mundo respeita."
 
 ---
 
 <p align="center">
 
-  <i>99 little bugs in the code...</i>
+  <i>🐛 99 little bugs in the code..... acho que é só isso 🐛</i>
 </p>
