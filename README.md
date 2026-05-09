@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Postingel 🧑🏽‍💻<h1>
+<h1 align="center">Bruno Postingel 🧑🏽‍💻 <h1>
 
 <p align="center">
   commitando em Go durante o dia
